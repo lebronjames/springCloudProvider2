@@ -6,4 +6,4 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://peer1:1111/eureka/,http://peer2:1112/eureka/
+      defaultZone: http://10.5.2.241:1111/eureka/,http://10.5.2.241:1112/eureka/
