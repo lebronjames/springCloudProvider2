@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>springCloudProvider3</artifactId>
+	<artifactId>springCloudProvider2</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>springCloudProvider3</name>
+	<name>springCloudProvider2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
